@@ -54,7 +54,7 @@
     color: var(--title-color);
 }
 
-/*Change background*/
+/* Change background */
 .scroll-header{
     box-shadow: 0 4px 4px hsla(0, 0%, 4%, .3);
 }

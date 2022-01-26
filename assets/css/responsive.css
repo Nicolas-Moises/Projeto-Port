@@ -33,7 +33,7 @@
         column-gap: .25rem;
     }
 }
-
+/* Biggest phones */
 @media screen and (min-width: 576px) {
     .nav__menu{
         width: 328px;
@@ -81,6 +81,7 @@
     }
 }
 
+/* Tablets */
 @media screen and (min-width:767px) {
     .work__container{
         grid-template-columns: repeat(2, max-content);
@@ -91,7 +92,7 @@
         column-gap: 3rem;
     }
 }
-
+/* Smaller desktops >*/
 @media screen and (min-width:992px) {
     .container{
         margin-left: auto;
